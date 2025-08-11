@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">Hi there 👋, I'm R.S. Chauhan</h1>
+<h1 align="center">Hi there 👋, I'm Ramcharan Chauhan</h1>
 <h3 align="center">Full Stack Developer | Specialized in Frontend | 5+ Years of Experience</h3>
 
 <p align="center">
